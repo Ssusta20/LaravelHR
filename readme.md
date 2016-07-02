@@ -1,4 +1,4 @@
-# Laravel basic HR application for learnig purpose
+# Laravel basic HR application for learnig purposes
 
 Basic HR app with CRUD operation on departments and employees.
 
